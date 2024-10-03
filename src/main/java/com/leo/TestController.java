@@ -6,4 +6,7 @@ package com.leo;
  * @Author LD
  */
 public class TestController {
+    public static void main(String[] args) {
+        System.out.println("hello02");
+    }
 }
