@@ -6,4 +6,5 @@ package com.leo;
  * @Author LD
  */
 public class TestMapper {
+    private int age; // age
 }
